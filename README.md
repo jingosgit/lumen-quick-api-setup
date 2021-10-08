@@ -1,16 +1,16 @@
 # A Quick Lumen PHP Framework Install
-This is a basic configure Lumen app to quickly start using it with laravel commands
+This is a basic Lumen app configuration to quickly start using it with laravel commands
 ---
 
 ## Installation guide
+---
+1. Copy .env.example .env
 
-### 1. Copy .env.example .env
+2. Execute command Composer install 
 
-### 2. Execute command Composer install 
+3. Write php artisan key:generate - to generate app Key
 
-### 3. Write php artisan key:generate - to generate app Key
-
-### 4. Launch the app - php artisan serve
+4. Launch the app - php artisan serve
 
 ---
 
